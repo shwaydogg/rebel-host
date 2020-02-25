@@ -18,6 +18,7 @@ body{
 
 #can_embed_form input[type=submit], h1,h2, h3, body #can_embed_form h2, body #donate_auto_modal h2, body #donate_make_recurring_modal h2 {font-family:"FucXed",sans-serif;text-transform:uppercase;word-spacing:-.15em;-webkit-hyphens:none;-ms-hyphens:none;hyphens:none}
 
-#can_main_col .last_line {
+#can_main_col .last_line, 
+#can_main_col .event_map_wrap {
   display:none;
 }
