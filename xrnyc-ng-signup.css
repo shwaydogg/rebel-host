@@ -1,0 +1,19 @@
+/*
+This is css for an event campaign page that will be used as a signup page
+for the subgroup but this way it appears on the event campaign map.
+*/
+
+#navframe {
+  width:100%;
+  border:0;
+  margin:0;
+  padding:0;
+  height: 92px;
+}
+
+body{
+    font-family: Crimson Text;
+}
+@font-face{font-family:'FucXed';src:url('https://static1.squarespace.com/static/5bda9184c3c16a86b3c38cc5/t/5bdbad56c2241bcd3a123fd6/1541123414560/FUCXEDCAPSLatin-Regular.woff2') format('woff2'),url('https://static1.squarespace.com/static/5bda9184c3c16a86b3c38cc5/t/5bdbad426d2a73d30dcb3aad/1541123394903/FUCXEDCAPSLatin-Regular.woff') format('woff'),url('https://static1.squarespace.com/static/5bda9184c3c16a86b3c38cc5/t/5bdbad4cc2241bcd3a123f2c/1541123404942/FUCXEDCAPSLatin-Regular.otf') format('otf');font-weight:normal;font-style:normal}
+
+#can_embed_form input[type=submit], h1,h2, h3, body #can_embed_form h2, body #donate_auto_modal h2, body #donate_make_recurring_modal h2 {font-family:"FucXed",sans-serif;text-transform:uppercase;word-spacing:-.15em;-webkit-hyphens:none;-ms-hyphens:none;hyphens:none}
