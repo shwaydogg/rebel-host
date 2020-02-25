@@ -3,6 +3,85 @@ This is css for an event campaign page that will be used as a signup page
 for the subgroup but this way it appears on the event campaign map.
 */
 
+/*
+ACTION NETWORK DEFAULT CSS:
+<!-- [START CUSTOM CSS - GENERATED FOR USERS] -->
+<!-- This CSS was generated for you, feel free to add to or edit it. --> 
+<style type="text/css">
+*/
+			body {
+				color:#4E4E4E;
+				margin: 0;
+			}
+			
+			#gen_header {
+				padding: 0;
+				background-color: #ffffff; /* [THIS IS GENERATED FROM THE *FIRST* COLOR PICKER OPTION] */
+				text-align: center;
+			}
+			
+			
+			#gen_header img {
+				width: 100%;
+				max-width: 820px;
+			}
+			
+			.gen_wrapper {
+				padding: 40px 20px;
+				width: 1160px;
+				max-width: 100%;
+				margin: auto;
+				box-sizing: border-box;
+			}
+			
+			.gen_wrapper #can_embed_form input[type="submit"],
+			.can_embed-html #can_embed_form input[type="submit"],
+			.gen_wrapper #can_embed_form .button,
+			.can_embed-html #can_embed_form .button,
+			.gen_wrapper #donate_auto_modal input[type="submit"],
+			.can_embed-html #donate_auto_modal input[type="submit"],
+			.gen_wrapper #donate_auto_modal .button,
+			.can_embed-html #donate_auto_modal .button {
+				background-color:#ffc11e; /* [THIS IS GENERATED FROM THE *SECOND* COLOR PICKER OPTION] */
+			}
+			
+				.gen_wrapper #can_embed_form input[type="submit"]:hover,
+				.can_embed-html #can_embed_form input[type="submit"]:hover,
+				.gen_wrapper #can_embed_form .button:hover,
+				.can_embed-html #can_embed_form .button:hover,
+				.gen_wrapper #donate_auto_modal input[type="submit"]:hover,
+				.can_embed-html #donate_auto_modal input[type="submit"]:hover,
+				.gen_wrapper #donate_auto_modal .button:hover, 
+				.can_embed-html #donate_auto_modal .button:hover {
+					background-color:#ffc11e;  /* [THIS IS GENERATED FROM THE *SECOND* COLOR PICKER OPTION] */
+					opacity: .7;
+				}
+			
+			.gen_wrapper #can_embed_form .action_status_running_total,
+			.can_embed-html #can_embed_form .action_status_running_total,
+			.gen_wrapper .gen_name,
+			.gen_wrapper a,
+			#can_fundraising_widget a,
+			.ticketed_event a {
+				color:#ffc11e; /* [THIS IS GENERATED FROM THE *SECOND* COLOR PICKER OPTION] */
+				text-decoration: none;
+			}
+			
+			.gen_wrapper a:hover,
+			#can_fundraising_widget a:hover,
+			.ticketed_event a:hover {
+				color:#ffc11e; /* [THIS IS GENERATED FROM THE *SECOND* COLOR PICKER OPTION] */
+				opacity: .7;
+				text-decoration: none;
+			}
+				
+/* 
+   --------------------------------
+   END ACTION NETWORK DEFAULT CSS </style>
+   -----------------------------------
+*/		
+
+
 #navframe {
   width:100%;
   border:0;
