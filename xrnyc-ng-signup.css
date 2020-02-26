@@ -109,6 +109,7 @@ body{
   display:none;
 }
 
+#ng-title .name, /* default */
 #ng-title-les .name {
 	font-size: 9vw
 }
