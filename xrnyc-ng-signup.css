@@ -120,6 +120,7 @@ body{
 #ng-title, #ng-title-les {
   margin:0;
   padding:0;
+  border: none;
 }
 .ng-header {
 	display:inline-block;
