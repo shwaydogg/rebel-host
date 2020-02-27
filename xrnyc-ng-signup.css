@@ -89,7 +89,7 @@ ACTION NETWORK DEFAULT CSS:
   padding:0;
   height: 89px;
 }
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 819px) {
   #navframe {
     height: 75px;
   }
@@ -112,6 +112,11 @@ body{
 #ng-title .name, /* default */
 #ng-title-les .name {
 	font-size: 9vw
+}
+.last_line, .last_line h2, .last_line h4
+#ng-title {
+  margin:0;
+  padding:0;
 }
 .ng-header {
 	display:inline-block;
