@@ -114,10 +114,10 @@ body{
 	font-size: 9vw
 }
 
-#can_embed_form .last_line, 
+#can_embed_form #can_main_col .last_line, 
 #can_embed_form .last_line h2, 
 #can_embed_form .last_line h4.first_line, 
-#ng-title {
+#ng-title, #ng-title-les {
   margin:0;
   padding:0;
 }
