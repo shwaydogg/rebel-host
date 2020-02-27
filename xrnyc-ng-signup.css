@@ -113,7 +113,10 @@ body{
 #ng-title-les .name {
 	font-size: 9vw
 }
-.last_line, .last_line h2, .last_line h4
+
+#can_embed_form .last_line, 
+#can_embed_form .last_line h2, 
+#can_embed_form .last_line h4.first_line, 
 #ng-title {
   margin:0;
   padding:0;
