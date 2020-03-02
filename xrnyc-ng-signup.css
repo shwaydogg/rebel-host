@@ -137,8 +137,13 @@ body{
 }
 .ng-map #can_embed_form .action_sidebar>h4:not(.sidebartitle):after,
 .ng-map .action_sidebar h4::after{
-  font-size: 20px;
-  content: "Join Us!";
-  background: none;
+    font-size: 32px;
+    content: "Join Us!";
+    background: none;
+    top: 13px;
+    font-family: Fucxed;
+    width: auto;
+    left: 50%;
+    margin-left: -72px;
 }
 /* ------------------------------------------------------------ */
