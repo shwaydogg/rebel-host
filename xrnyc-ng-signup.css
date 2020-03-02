@@ -130,3 +130,13 @@ body{
     font-size: 1em;
     margin-top: -1vw;
 }
+
+/*Replace "ATTEND THIS EVENT" text above form with "Join Us" text*/
+.ng-map .action_sidebar h4{
+  font-size: 0px;
+}
+.ng-map .action_sidebar h4::after{
+  font-size: 20px;
+  content: "Join Us!"
+}
+/* ------------------------------------------------------------ */
