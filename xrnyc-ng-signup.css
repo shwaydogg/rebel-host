@@ -132,11 +132,13 @@ body{
 }
 
 /*Replace "ATTEND THIS EVENT" text above form with "Join Us" text*/
-.ng-map .action_sidebar h4{
+.ng-map  #can_embed_form .action_sidebar h4{
   font-size: 0px;
 }
+.ng-map #can_embed_form .action_sidebar>h4:not(.sidebartitle):after
 .ng-map .action_sidebar h4::after{
   font-size: 20px;
-  content: "Join Us!"
+  content: "Join Us!";
+  background: none;
 }
 /* ------------------------------------------------------------ */
