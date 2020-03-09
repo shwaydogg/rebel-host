@@ -147,3 +147,11 @@ body{
     margin-left: -72px;
 }
 /* ------------------------------------------------------------ */
+
+/* Sponsored by and subscription pref edits from SarahV's critiques: */
+#action_info, #can_embed_form #d_sharing {
+	display:none; 
+}
+/* ------------------------------------------------------------ */
+
+
