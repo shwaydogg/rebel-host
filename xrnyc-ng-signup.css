@@ -149,7 +149,7 @@ body{
 /* ------------------------------------------------------------ */
 
 /* Sponsored by and subscription pref edits from SarahV's critiques: */
-#action_info, #can_embed_form #d_sharing {
+.ng-map  #action_info, .ng-map #can_embed_form #d_sharing {
 	display:none; 
 }
 /* ------------------------------------------------------------ */
